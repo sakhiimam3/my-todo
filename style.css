@@ -1,0 +1,65 @@
+body{
+
+    background-image: url(data:image/jpeg;base64,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);
+   background-repeat: no-repeat;
+   background-size: 500vh;
+}
+#todo{
+    width: 200px;
+    margin-top: 100px;
+}
+.input1{
+    border: 2px solid rgb(41, 33, 33);
+    height: 30px;
+    border-radius: 9px;
+    outline-style: none;
+    padding-left: 5px;
+}
+h1{
+    margin-top: 50px;
+    color: blue;
+    display: inline-block;
+    border: 3px dashed pink;
+    background-color:goldenrod;
+}
+   
+button{
+    background-color: black;
+     color:wheat;
+    width: 100px;
+    height: 30px;
+    border-radius: 9px;
+    border-top: 4px solid green;
+    border-bottom: 3px solid palevioletred;
+    border-left: 2px dashed royalblue;
+    border-right: 2px dashed wheat;  
+    outline-style: none; 
+
+}
+.Btn{
+  background-color: rgb(49, 75, 75);
+  margin-right: -50px;
+  margin-left: 60px;
+  outline-style: none;
+}
+.main{
+    background-color: chocolate;
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#list{
+    margin-left: 20px;
+    color: wheat
+    ;
+    font-family: sans-serif;
+    font-size: 23px;
+    list-style: none;
+}
+@media screen and (max-width:500px){
+    #todo,#list,.main,.Btn,.button,h1{
+        width: 100%;
+    }
+}
